@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matthewcohen/manim-examples/quickstart/media/videos/scene/1080p60/partial_movie_files/AnimatedSquareToCircle/1413466013_570746363_223132457.mp4'
+file 'file:/home/matthewcohen/manim-examples/quickstart/media/videos/scene/1080p60/partial_movie_files/AnimatedSquareToCircle/1672018281_3624582937_247722528.mp4'
+file 'file:/home/matthewcohen/manim-examples/quickstart/media/videos/scene/1080p60/partial_movie_files/AnimatedSquareToCircle/1672018281_26420478_247722528.mp4'
+file 'file:/home/matthewcohen/manim-examples/quickstart/media/videos/scene/1080p60/partial_movie_files/AnimatedSquareToCircle/1672018281_697153040_3247135320.mp4'

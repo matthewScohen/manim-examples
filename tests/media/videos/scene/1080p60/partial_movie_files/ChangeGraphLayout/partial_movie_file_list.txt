@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphLayout/1413466013_3002494538_223132457.mp4'
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphLayout/1672018281_2310800787_920872490.mp4'
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphLayout/1672018281_329969645_1490111468.mp4'

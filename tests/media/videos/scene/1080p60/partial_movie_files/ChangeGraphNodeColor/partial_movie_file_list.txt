@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphNodeColor/1413466013_927156428_223132457.mp4'
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphNodeColor/1672018281_2682116800_920872490.mp4'
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphNodeColor/1672018281_2442732404_398953921.mp4'
+file 'file:/home/matthewcohen/manim-examples/tests/media/videos/scene/1080p60/partial_movie_files/ChangeGraphNodeColor/1672018281_329969645_4249083794.mp4'
